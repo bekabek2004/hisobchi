@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: group-tracker-bot
+    env: python
+    buildCommand: ""
+    startCommand: bash start.sh
