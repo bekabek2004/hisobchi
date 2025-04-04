@@ -1,0 +1,2 @@
+# hisobchi
+odam sonin hisoblar
